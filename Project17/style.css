@@ -1,0 +1,10 @@
+.box{
+    width: 450px;
+    height: 800px;
+    background-color:white;
+    box-shadow: 0px 4px 12px 12px #00000040;
+}
+
+h1,h3, hr{
+    color: #5F5B5B;
+}
